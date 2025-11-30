@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ezshop Privacy Policy</title>
+  <style>
+    body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 2em; max-width: 800px; margin: auto; line-height: 1.6; }
+    h1, h2, h3 { color: #333; }
+    a { color: #0645AD; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    hr { margin: 2em 0; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>This privacy policy applies to the Ezshop app (hereby referred to as "Application") for mobile devices created by Rida Zahra Raza (hereby referred to as "Service Provider"). This service is provided for free and is intended for use "AS IS".</p>
+
+  <h2>Information Collection and Use</h2>
+  <p>The Application collects information when you download and use it. This information may include:</p>
+  <ul>
+    <li>Your device's IP address</li>
+    <li>The pages/screens of the Application that you visit, the time and date of your visit, and the time spent on those pages</li>
+    <li>The operating system you use on your mobile device</li>
+    <li>Usage patterns to improve app functionality</li>
+  </ul>
+  <p>The Application does not collect precise location data of your device.</p>
+
+  <p>The Service Provider may contact you occasionally for important information, required notices, and marketing promotions.</p>
+  <p>To enhance your experience, the Application may require personally identifiable information, including but not limited to: name, email address, contact number, shipping address, order history, payment method, and Firebase authentication UID. This information will be retained and used as described in this privacy policy.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>The Application uses the following third-party services, which may collect and process your data according to their privacy policies:</p>
+  <ul>
+    <li><strong>Firebase (Google)</strong> – For user authentication, data storage, and app functionality. <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+    <li><strong>EmailJS</strong> – For sending order confirmation emails to customers. <a href="https://www.emailjs.com/legal/privacy-policy/" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+  </ul>
+
+  <h2>Disclosure of Information</h2>
+  <p>The Service Provider may disclose information:</p>
+  <ul>
+    <li>As required by law or legal process</li>
+    <li>When necessary to protect rights, safety, or investigate fraud</li>
+    <li>To trusted service providers who work on behalf of the Service Provider and agree to follow this privacy policy</li>
+  </ul>
+
+  <h2>Opt-Out Rights</h2>
+  <p>You can stop all collection of information by uninstalling the Application via standard device or app store methods.</p>
+
+  <h2>Data Retention Policy</h2>
+  <p>  User-provided data will be retained as long as you use the Application and have an account.</p>
+
+  <h2>Children</h2>
+  <p>The Application is not intended for children under 13. The Service Provider does not knowingly collect information from children under 13. If personal information from a child under 13 is discovered, it will be deleted immediately. Parents or guardians may contact <a href="mailto:ridaazahra.work@gmail.com">ridaazahra.work@gmail.com</a> with concerns.</p>
+
+  <h2>Security</h2>
+  <p>The Service Provider safeguards your information using physical, electronic, and procedural measures.</p>
+
+  <h2>Changes</h2>
+  <p>This Privacy Policy may be updated occasionally. Continued use of the Application constitutes consent to any changes. Effective date: 2025-11-30</p>
+
+  <h2>Your Consent</h2>
+  <p>By using the Application, you consent to the processing of your information as described in this Privacy Policy.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have questions about this Privacy Policy, contact the Service Provider via email: <a href="mailto:ridaazahra.work@gmail.com">ridaazahra.work@gmail.com</a>.</p>
+
+</body>
+</html>
